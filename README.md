@@ -95,7 +95,7 @@ Contributions are welcome. To contribute to the project, please fork the reposit
 
 Decodify is released under the MIT License. See LICENSE for details.
 
-## Acknowledments
+## Acknowledgments
 
 * pybase62
 * argparse

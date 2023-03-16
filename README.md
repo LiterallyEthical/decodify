@@ -23,7 +23,7 @@ git clone git@github.com:LiterallyEthical/decodify.git
 
 * Install the requirements with
 ```
-    python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Features
